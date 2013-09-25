@@ -8,3 +8,7 @@
 # Used JDK:     The currently used JDK
 # Used Servlet: The currently used Servlet Engine
 #############################################################
+############### currently used configuration ################
+Date:                Sep 25, 2013 4:28:07 PM
+Used JDK:            1.6.0_27
+Used Servlet Engine: Apache Tomcat/6.0.35
